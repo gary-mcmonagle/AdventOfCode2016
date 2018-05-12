@@ -17,7 +17,6 @@ module.exports = class NumberDial{
             }
         }
     }
-
     move(direction){
         var move = [null,null];
         var applyMove = true;
